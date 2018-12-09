@@ -60,7 +60,7 @@
             <plugin>
                 <groupId>com.assertthat.plugins</groupId>
                 <artifactId>assertthat-bdd-maven-plugin</artifactId>
-                <version>1.0-SNAPSHOT</version>
+                <version>1.1</version>
                 <configuration>
                     <projectId><!--Jira project id e.g. 10001--></projectId>
                     <!--Optional can be supplied as environment variable ASSERTTHAT_ACCESS_KEY -->
